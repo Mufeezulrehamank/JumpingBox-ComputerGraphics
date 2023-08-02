@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1672722855 source:c:\users\mufeezul rehaman k\onedrive\desktop\cg project\jb\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<string.h>
+
+1670485139 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1670485139 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
